@@ -10,7 +10,7 @@ I'm Jesús Gómez Huidor, a passionate software developer/student from Guadalaja
 ## 🚀 Projects
 - **Scientific Computation**: A compilation of numeric methods implemented during my classes at Uni, featuring a user-friendly web interface for data input. 🌐 [Coming Soon]
 - **Physics Simulations (WIP)**: A series of simulations created in a Simulation class using Python. 🔬 [Coming Soon]
-- **Variable Star Classifier**: A Python script that classifies stars as variable or non-variable based on brightness data. ⭐ [Coming Soon]
+- **Variable Star Classifier**: A Python script that classifies stars as variable or non-variable based on brightness data. ⭐ [Clasificador de estrellas variables](https://github.com/JesusHuidor/VariableStarClassifier)
 - **Earthquake Marker**: A Java applet that visualizes recent earthquake data on a map. 🌍 [QuakeMarkers](https://github.com/JesusHuidor/QuakeMarkers)
 
 ## 🏆 Achievements & Certifications
